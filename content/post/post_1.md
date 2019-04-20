@@ -1,6 +1,6 @@
 +++
 title = 'Nvdia RTX Graphic Cards'
-slug = 'post'
+slug = 'post_1'
 image = 'images/rtx.jpg'
 date = "2018-09-21T16:15:00"
 description = ''
