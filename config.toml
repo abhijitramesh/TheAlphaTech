@@ -1,9 +1,10 @@
 languageCode = "en-us"
 title = "The Alpha Tech"
-baseURL = "http://localhost:1313/"
+baseURL = "http://abhijitramesh.github.io"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
+publishDir = "abhijitramesh.github.io"
 
 # [params]
   # set below parameter to define a favicon
